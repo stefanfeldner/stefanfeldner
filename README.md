@@ -4,7 +4,7 @@ My name is Stefan Feldner, I'm a Frontend Developer from Austria with a passion 
 
 🔭 I’m currently working on the pre-course for Codeworks, the coding bootcamp I will attend soon.
 
-🌱 I’m currently learning advanced JavaScript, React, and more.
+🌱 I’m currently learning Full-Stack Development.
 
 ⚡ Fun fact: I co-manage a Discord Community with about 140 users.
 
