@@ -2,7 +2,7 @@
 
 My name is Stefan Feldner, I'm a Frontend Developer from Austria with a passion for coding, gaming, travel, and fitness.
 
-🔭 I’m currently working on the pre-course for Codeworks, the coding bootcamp I will attend soon.
+🔭 I’m currently attending Codeworks, a intense 12 week coding bootcamp.
 
 🌱 I’m currently learning Full-Stack Development.
 
