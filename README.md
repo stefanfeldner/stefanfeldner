@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Stefan Feldner, I'm a Frontend Developer from Austria with a passion for coding, gaming, travel, and fitness.
+My name is Stefan Feldner, I'm a Full Stack Developer from Austria with a passion for coding, gaming, travel, and fitness.
 
 🔭 I’m attending Codeworks atm, a intense 12 week coding bootcamp until end of May.
 
