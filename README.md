@@ -2,9 +2,9 @@
 
 My name is Stefan Feldner, I'm a Full Stack Developer from Austria with a passion for coding, gaming, travel, and fitness.
 
-🔭 I’m attending Codeworks atm, a intense 12 week coding bootcamp until end of May.
+🔭 I work full time at ALPIN11 New Media GmbH where I develop web applications and ecommerce solutions.
 
-🌱 I’m currently working on uspace, a Full-Stack Web Application helping you share information.
+🌱 On the side I'm working on uspace, a Full-Stack Web Application helping you share information.
 
 ⚡ Fun fact: I co-manage a Discord Community with about 140 users.
 
