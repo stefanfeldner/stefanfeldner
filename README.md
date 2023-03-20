@@ -25,7 +25,3 @@ My name is Stefan Feldner, I'm a Full Stack Developer from Austria with a passio
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-#### Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanfeldner&show_icons=true&theme=dark)
