@@ -2,7 +2,7 @@
 
 My name is Stefan Feldner, I'm a Full Stack Developer from Austria with a passion for coding, gaming, travel, and fitness.
 
-🔭 I work full time at ALPIN11 New Media GmbH where I develop web applications and ecommerce solutions.
+🔭 I work full-time at ibana Software GmbH where I develop web applications and improve financial transaction security for our customers.
 
 🌱 On the side I'm working on uspace, a Full-Stack Web Application helping you share information.
 
